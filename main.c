@@ -59,6 +59,7 @@ int main()
     if(f == NULL)
     {
         printf("eroare fisier");
+        fclose(g);
         return 1;
     }
 
@@ -74,6 +75,8 @@ int main()
 
     fprintf(g,"%d ",min_k(v,0,n-1,k-1)); // luam k-1 pentru ca incepe cnt de 0
     free(v);
+
+    fclose(g);
 
     return 0;
 
