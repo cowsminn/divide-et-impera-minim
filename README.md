@@ -1,8 +1,10 @@
-# Proiect PC1
+# Tema divide et impera unibuc
 
-Înlocuiți titlul cu titlul proiectului vostru și adăugați o scurtă descriere.
-
-## Resurse
-
-- Adăugați trimiteri către resursele externe care v-au ajutat sau pe care le-ați folosit.
-- [rlutil](https://github.com/tapio/rlutil/tree/821fdca0191b314ee07b0fad2abe4ea973e45575) (WTFPL)
+### Problema 5
+  - Se dau `n` numere naturale. Sa se afiseze al `k`-ulea cel mia mic element din sir.
+  - Date de intrare : fisierul `date.in` contine:
+      - pe prima linie un natural `n` si un numar natural `k` si
+      - pe a doua linie, un sir de `n` numere naturale, separate prin cate
+      - un spatiu.
+  - Date de iesire: fisierul `date.out` contine valoarea ceruta.
+  
