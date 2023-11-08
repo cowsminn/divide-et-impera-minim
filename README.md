@@ -1,4 +1,4 @@
-# Tema divide et impera unibuc
+# Tema divide et impera UniBuc
 
 ### Problema 5
   - Se dau `n` numere naturale. Sa se afiseze al `k`-ulea cel mai mic element din sir.
