@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
-//dividee et impera prob 5, Caravan Cosmin 164
 
 int cmp(const void *a, const void *b)
 {
